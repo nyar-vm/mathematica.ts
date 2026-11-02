@@ -12,10 +12,11 @@
   },
   "dependencies": {
     "@tauri-apps/api": "^2",
-    "@vmz/core": "^0.1.12"
+    "@vmz/core": "0.3.12"
   },
   "devDependencies": {
-    "@vmz/vmz": "^0.1.12",
+    "@vmz/plugin": "0.3.12",
+    "@vmz/vmz": "0.3.12",
     "typescript": "^5.8.3"
   }
 }
